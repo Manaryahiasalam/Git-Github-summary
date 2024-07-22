@@ -1,2 +1,3 @@
 The first line
-the second line in file 
+the second line in file
+The Third line
